@@ -2,7 +2,7 @@
 
 **`Aspiring DevOps Engineer (Developer/Problem Solver)`**
 
-I'm Artamim, a passionate learner and aspiring DevOps engineer diving into Kubernetes, AWS, cloud technologies, and more. Explore this profile to follow my journey, discover my projects, and observe the skills I’m building as I grow in the tech world!
+I'm Rezaur Rahman Rasul, a passionate learner and aspiring DevOps engineer diving into Kubernetes, AWS, cloud technologies, and more. Explore this profile to follow my journey, discover my projects, and observe the skills I’m building as I grow in the tech world!
 
 ### About Me 📘
 - 🌱 **Learning**: Kubernetes, Docker, CI/CD pipelines, and cloud-native development.
