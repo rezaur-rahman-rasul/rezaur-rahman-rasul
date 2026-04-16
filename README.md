@@ -44,7 +44,7 @@ I believe in *learning by doing*, and this profile is where I document that jour
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px"/>
   
   <!-- Microservices (no official icon, using architecture-style substitute) -->
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-microservices-cloud-computing-flatart-icons-outline-flatarticons.png" width="30px"/>
+ <img src="https://img.icons8.com/ios-filled/50/ffffff/microservices.png" width="30px"/>
 </p>
 
 ---
